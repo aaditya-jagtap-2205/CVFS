@@ -1,9 +1,5 @@
 <h1 align="center">
-    <img src="./assets/cvfs_logo.png" width="350px" alt="CVFS Logo">
-</h1>
-
-<h1 align="center">
-Customized Virtual File System (CVFS)
+    <img src="./assets/cvfs_logo.png" width="700px" alt="CVFS Logo">
 </h1>
 
 <p align="center">
